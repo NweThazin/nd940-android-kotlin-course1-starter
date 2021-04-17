@@ -1,3 +1,54 @@
 <resources>
-    <string name="app_name">ShoeStore</string>
+    <string name="app_name">Shoe Store</string>
+
+    <string name="title_shoe_store_inventory">SHOE STORE INVENTORY</string>
+
+    <string name="label_email">Email:</string>
+    <string name="label_password">Password:</string>
+    <string name="label_login">Login</string>
+    <string name="label_create_an_account">Create an account</string>
+
+    <string name="label_title_welcome">The shoe store POS system and inventory app for clever retailers</string>
+    <string name="label_description_welcome">Sell the footwear that your customers love, make smarter decisions, and stay one step ahead of the competition. Vend is the cloud-based shoe shop POS software loved by retailers globally.
+    <br /><br />
+        SELLING FOOTWEAR HAS NEVER BEEN THIS EASY<br />
+        Whether you’re ringing up sales behind the counter or want to serve your customers while trying shoes on the sales floor, Vend has you covered. Our POS system works on any device with a web browser so you can process sales and capture customer data no matter what shoe store set up you have.
+    <br /><br />
+        A RELIABLE SHOE INVENTORY APP<br />
+        More than just a shoe store POS system, Vend comes with robust stock management features so you can stay on top of your inventory. Vend is packed with stock control features like bulk uploads, stock level reporting, partial and full inventory counts, and more.
+    <br /><br />
+        HASSLE-FREE PAYMENTS<br />
+        Accept all the ways that shoppers want to pay — from cash and credit to mobile payments and gift cards. Selling high-end footwear? Give customers more flexibility by offering “buy now pay later” or layby/layaway services.
+    </string>
+    <string name="btn_read_instructions">Read instructions</string>
+
+    <string name="btn_show_shoe_lists">Show shoe list</string>
+    <string name="label_title_instructions">The best POS system for shoe stores, hand down.</string>
+
+    <string name="label_sub_title_sell_your_best_products">SELL YOUR BEST PRODUCTS</string>
+    <string name="label_description_sell_your_best_products">It’s a breeze to add, edit and remove products in Vend, including images, prices, and variations by size and color. Vend reporting and stock management makes it easy to sell more of your best products, season after season.</string>
+
+    <string name="label_sub_title_know_your_business">REALLY KNOW YOUR BUSINESS</string>
+    <string name="label_description_know_your_business">Vend’s powerful reporting tools give you insights into every aspect of your business, allowing you to streamline your processes and align your staff and inventory with demand. With real-time information available to you on your mobile device from anywhere at anytime, you’ll know more than ever before.</string>
+
+    <string name="label_sub_title_manage_multiple">MANAGE MULTIPLE USERS AND LOCATIONS</string>
+    <string name="label_description_manage_multiple">Vend is built to grow with you. It’s simple to train staff, add users, and track performance. Open a new location, expand with more registers, or go online by connecting Vend to the e-commerce you love.</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="content_description_of_floating_action_button">content description of floating action button</string>
+    <string name="label_logout">Logout</string>
+
+    <string name="label_shoe_name">Shoe Name:</string>
+    <string name="label_company">Company:</string>
+    <string name="label_shoe_size">Shoe Size:</string>
+    <string name="label_description">Description:</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_save">Save</string>
+    <string name="title_login">Shoe Store Inventory</string>
+    <string name="title_instructions">INSTRUCTIONS</string>
+    <string name="title_shoe_list">SHOE LIST</string>
+    <string name="title_welcome_onboarding">WELCOME</string>
+    <string name="title_shoe_detail">SHOE DETAIL</string>
+    <string name="error_required_fields">Required fields</string>
+
+
 </resources>
