@@ -10,6 +10,7 @@
             type="com.udacity.shoestore.models.Shoe" />
     </data>
 
+    <!-- By using Constraint Layout in this layout gives us adaptable and flexible ways to create views without nesting many ViewGroups-->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
